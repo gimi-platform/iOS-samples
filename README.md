@@ -12,7 +12,7 @@ iOS sample project for using the Gimi SDK.
 1. Compile and run
 
 
-### Add Kiip to an existing project
+### Add GimiSDK to an existing project
 
 1. Add `GimiSDK.framework` to your project
 1. Add `GimiSDKResources.bundle` to your project
